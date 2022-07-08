@@ -1,9 +1,10 @@
 ## Our focus
-- Platform teams
+- Team Topologies
+- Platform Engineering
 - Enabling teams
-- Developer Experience
 - DevOps
-- SRE
+- Developer Experience
+- Developer Productivity and Effectiveness
 
 <!--
 
