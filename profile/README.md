@@ -1,11 +1,13 @@
-## Our focus
-- Team Topologies
-- Platform Engineering
-- Enabling teams
-- DevOps
-- Developer Experience
-- Developer Productivity and Effectiveness
+## Enabling.team
+We help create and grow engineering culture, processes, and practices in tech and enterprise companies. Our focus areas include Team Topologies, Platform Engineering, Enabling teams, DevOps, Developer Experience, Engineering Excellence.
 
-<img width="1197" alt="Screenshot 2022-09-14 at 14 47 44" src="https://user-images.githubusercontent.com/330798/190145611-dbcee60a-5be5-42cf-9c16-4df0ba3686e3.png">
+## Areas
+<img width="1290" alt="Screenshot 2024-01-04 at 14 45 44" src="https://github.com/EnablingTeam/.github/assets/330798/b3d31997-cfe3-4f47-bc9f-d86fafd31494">
 
-https://enabling.team
+## News
+<img width="1147" alt="Screenshot 2024-01-04 at 14 46 57" src="https://github.com/EnablingTeam/.github/assets/330798/cbd48594-e445-4af2-a1ca-855d5fe6c324">
+
+## Links
+- https://enabling.team
+- https://enabling.team/insights
+- https://enabling.team/experts
