@@ -2,10 +2,10 @@
 We help create and grow engineering culture, processes, and practices in tech and enterprise companies. Our focus areas include Team Topologies, Platform Engineering, Enabling teams, DevOps, Developer Experience, Engineering Excellence.
 
 ## [Focus](https://enabling.team/focus)
-<img width="1266" alt="Screenshot 2024-04-04 at 21 00 30" src="https://github.com/EnablingTeam/.github/assets/330798/4d42887d-ab7a-4e92-a3fa-d67b52467898">
+<img width="1080" alt="Screenshot 2024-11-15 at 15 14 44" src="https://github.com/user-attachments/assets/00cc0223-5179-4344-b7d6-1ed59c5f3914">
 
 ## [Services](https://enabling.team/services)
-<img width="1290" alt="319719072-4295f9a7-4b81-4d4a-9ae1-a6b5e27342ce" src="https://github.com/EnablingTeam/.github/assets/330798/0efa7915-8cdf-4646-9d8c-97b50fcb0d89">
+<img width="1115" alt="Screenshot 2024-11-15 at 15 14 23" src="https://github.com/user-attachments/assets/b366d75a-564d-4627-9dc5-22884f3517ae">
 
 ## [Insights](https://enabling.team/insights)
 <img width="1115" alt="Screenshot 2024-11-15 at 15 11 52" src="https://github.com/user-attachments/assets/9cd8122d-6662-495e-bb69-cadb1047b8d0">
